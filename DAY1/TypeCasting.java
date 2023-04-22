@@ -1,3 +1,4 @@
+package DAY1;
 public class TypeCasting {
     public static void main(String[] args) {
         // int  i = 10;

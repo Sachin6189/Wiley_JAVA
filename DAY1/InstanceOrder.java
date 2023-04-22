@@ -1,3 +1,4 @@
+package DAY1;
 public class InstanceOrder {
 	
 	String name;
